@@ -4,7 +4,7 @@ An explainable monitoring workflow built on public field data from three real ph
 
 > **How much AC power should this system produce under the sunlight and temperature it is actually experiencing, how far below that is it, and which sustained events should someone inspect first?**
 
-![Actual vs expected daily energy, System 1433](dashboard/screenshots/02_actual_vs_expected_1433.png)
+![Actual vs expected daily energy, System 1433](assets/system_1433_drop_dashboard.jpg)
 
 ---
 
