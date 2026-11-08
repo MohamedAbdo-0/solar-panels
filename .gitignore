@@ -1,0 +1,30 @@
+# Virtual Environments & Packages
+.venv/
+env/
+venv/
+ENV/
+__pycache__/
+*.pyc
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Temporary & Checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Backup & Temporary Notebooks
+solar_panels_backup.ipynb
+solar_panels.ipynb
+*.tmp
+
+# Raw Large CSV Datasets (Keep output CSVs, ignore huge raw sensor files)
+system_4.csv
+system_10.csv
+system_1433.csv
+*.zip
+*.tar.gz
+

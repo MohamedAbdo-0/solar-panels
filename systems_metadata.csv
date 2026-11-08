@@ -1,0 +1,4 @@
+system_id,name,latitude,longitude,elevation_m,capacity_kw,tilt,azimuth,mounting_type,data_frequency,start,end,sensor_list
+1433,[1433] NREL RSF1,39.7404,-105.1719,1780.0,449.28,10.0,180.0,roof,0 days 00:15:00,2011-01-01 00:00:00,2012-12-19 22:30:00,"ac_power, irradiance (POA), module_temp, ambient_temp"
+10,NREL CIS -1,39.7404,-105.1774,1792.8,1.12,40.0,180.0,ground,0 days 00:01:00,2018-01-01 00:00:00,2019-12-16 09:59:00,"ac_power, irradiance (POA), module_temp, ambient_temp"
+4,NREL x-Si -1,39.7406,-105.1774,1795.3,1.0,40.0,180.0,ground,0 days 00:01:00,2018-01-01 00:00:00,2019-12-17 09:41:00,"ac_power, irradiance (POA), module_temp, ambient_temp"

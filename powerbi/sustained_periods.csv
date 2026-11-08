@@ -1,0 +1,2 @@
+system_id,start_date,end_date,evaluated_rows,expected_kwh,actual_kwh,net_shortfall_kwh,shortfall_pct,pct_in_60_days_before,system
+1433,2012-09-08,2012-12-18,2352,119237.37332043026,70447.0,48790.373320430255,40.91869181763539,1.1858069094380808,System 1433 (Rooftop)

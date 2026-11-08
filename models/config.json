@@ -1,0 +1,49 @@
+{
+  "4": {
+    "features": [
+      "irradiance",
+      "module_temp",
+      "ambient_temp",
+      "solar_elevation",
+      "is_afternoon"
+    ],
+    "timezone": "Etc/GMT+7",
+    "capacity_w": 1000.0,
+    "cadence_min": 1,
+    "min_expected_w": 200.0,
+    "shortfall_threshold_w": 20.769908848725798,
+    "relative_threshold": 0.05515998709904536
+  },
+  "10": {
+    "features": [
+      "irradiance",
+      "module_temp",
+      "ambient_temp",
+      "solar_elevation",
+      "is_afternoon"
+    ],
+    "timezone": "Etc/GMT+7",
+    "capacity_w": 1120.0,
+    "cadence_min": 1,
+    "min_expected_w": 224.0,
+    "shortfall_threshold_w": 46.1342203862858,
+    "relative_threshold": 0.07080436956899776
+  },
+  "1433": {
+    "features": [
+      "irradiance",
+      "module_temp",
+      "ambient_temp",
+      "solar_elevation",
+      "is_afternoon"
+    ],
+    "timezone": "Etc/GMT+6",
+    "capacity_w": 449280.0,
+    "cadence_min": 15,
+    "min_expected_w": 89856.0,
+    "shortfall_threshold_w": 111332.32406256138,
+    "relative_threshold": 0.4491707042881408
+  },
+  "min_irradiance_for_evaluation": 150,
+  "min_event_duration_minutes": 30
+}
